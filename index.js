@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api')
 
-const TOKEN = '781858344:AAEl6L7NOYhArmaPiV4l3wAIaXWKBU9DNTY'
+const TOKEN = 'Здесь токен бота'
 
 const bot = new TelegramBot(TOKEN,{
     polling: {
